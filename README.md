@@ -1,4 +1,11 @@
 ### Hi there 👋
+### Pradeep Bhattarai
+- 🌱Currently Studying Computer Engineering at IOE Pulchowk Engineering Campus.
+
+
+
+Thanks for visiting!
+☁️🤙💪
 
 <!--
 **PradeepBhattarai/PradeepBhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
